@@ -1,0 +1,7 @@
+package Triangle;
+
+public class Triangle2 extends Triangle {
+    public Triangle2(int x1, int x2, int x3, int y1, int y2, int y3){
+        super(x1, x2, x3, y1, y2, y3);
+    }
+}
